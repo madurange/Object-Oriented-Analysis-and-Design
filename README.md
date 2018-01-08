@@ -1,0 +1,2 @@
+# Object-Oriented-Analysis-and-Design
+deals with the analysis and design of complex engineering systems. create requirement specifications prior to the design and implementation of such engineering systems. Case studies from software development projects will be used to illustrate the design process. Development of expertise in analyzing, designing, implementing, and testing industrial-quality, reusable software systems. 
